@@ -22,7 +22,7 @@ Conversion notes:
 
 
 <div style="text-align: center;">
-# Risa KOBAYASHI
+   <h1> Risa KOBAYASHI </h1>
 
 Ph.D. student Civil Engineering
 
