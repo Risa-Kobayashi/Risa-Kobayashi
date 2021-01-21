@@ -1,4 +1,28 @@
-**Risa KOBAYASHI**
+<!-- Copy and paste the converted output. -->
+
+<!-----
+NEW: Check the "Suppress top comment" option to remove this info from the output.
+
+Conversion time: 0.976 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β29
+* Wed Jan 20 2021 20:45:36 GMT-0800 (PST)
+* Source doc: CV
+----->
+
+
+<div style="text-align: center;">
+# Risa KOBAYASHI
 
 Ph.D. student Civil Engineering
 
@@ -6,12 +30,13 @@ Engineering Bldg.1 Room 324, 7-3-1, Hongo, Bunkyo-ku, Tokyo, 113-8656, JAPAN
 
 E-mail: kobayashi@bin.t.u-tokyo.ac.jp, risa9039@gmail.com
 
-
+</div>
 
 ---
 
 
-**Education**
+
+## Education
 
 **Research Fellowships for Young Scientist (DC)	**2020 - present
 
@@ -37,7 +62,8 @@ _The University of Tokyo, Japan, Adviser:  Prof. Yukio Nishimura_
 
 _The University of Tokyo, Japan, Adviser:  Prof. Yukio Nishimura_
 
-**Teaching / Research Experience**
+
+## Teaching / Research Experience
 
 **Teaching Assistant, Department of  Urban Engineering, the University of Tokyo. 	**2016
 
@@ -68,7 +94,8 @@ _The University of Tokyo, Japan, Adviser:  Prof. Yukio Nishimura_
 *   Research subject “Integration of behavioral transportation models in a disaster management system”
 *   Designed Workshop 
 
-**Peer-reviewed Journal Papers**
+
+## Peer-reviewed Journal Papers
 
 
 
@@ -76,7 +103,8 @@ _The University of Tokyo, Japan, Adviser:  Prof. Yukio Nishimura_
 2. Risa Kobayashi, Eiji Hato：A Land-owning Pattern Choice Model with EM algorithm, Journal of the City Planning Institute of Japan, 2019, Volume 54, Issue 3, Pages 1245-1252.
 3. Risa Kobayashi, Eiji Hato：An analysis of the relationship between turnover and the spacial transformation by transition of the land situations and the type of landownership, Journal of the City Planning Institute of Japan, 2018, Volume 53, Issue 3, Pages 251-258.
 
-**Conferences and presentations**
+
+## Conferences and presentations
 
 
 
@@ -84,7 +112,8 @@ _The University of Tokyo, Japan, Adviser:  Prof. Yukio Nishimura_
 2. Risa Kobayashi, Eiji Hato：A Land-owning Pattern Choice Model with EM algorithm, 54th The Annual Conference of The City Planning Institute of Japan, Yokohama, Japan, Nov 2019.
 3. Risa Kobayashi, Eiji Hato：An analysis of the relationship between turnover and the spacial transformation by transition of the land situations and the type of landownership, 53th The Annual Conference of The City Planning Institute of Japan, Osaka, Japan, Nov 2018.
 
-**Grants**
+
+## Grants
 
 **Grant-in-Aid for JSPS Research Fellow	**2020-2022
 
@@ -93,7 +122,8 @@ _The University of Tokyo, Japan, Adviser:  Prof. Yukio Nishimura_
 *   Research subject “The Mechanism of the Formation of Urban Space using Dynamic Land-owning Model”
 *   Japan Society for the Promotion of Science (JSPS)
 
-**Professional associations**
+
+## Professional associations
 
 
 
